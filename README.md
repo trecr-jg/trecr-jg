@@ -2,11 +2,11 @@
 
 ## Regulatory Change | Policy Implementation | Program Delivery
 
-I'm an implementer without an ego. I turn regulation and policy into working practice that holds up to inspection, with clear owners, real deadlines and reporting that shows whether it's working.
+I turn regulations and policies into everyday practices that stand up to review by making clear who owns the work, when it’s due and how we’ll know it’s working. I currently serve on the Travis County Elections team in Austin.
 
-I spent 25+ years in financial services, including 14 years at Societe Generale (Vice President) in Chicago and London. There I delivered regulatory remediation, regulatory change management and internal policy rollouts across legal entities, business units and teams in the US, Europe and Asia. I've briefed executive, risk and audit committees in plain language.
+My more than 25 years in financial services include 14 at Société Générale in Chicago and London. As a vice president, I led regulatory remediation, managed regulatory change and rolled out internal policies across legal entities and business units in the U.S., Europe and Asia. I briefed executive, risk and audit committees on the progress of that work and the decisions still needed. I also secured funding through the company’s internal call for startups and managed the team that developed my proposal.
 
-I'm an 18-year U.S. Air Force and Air National Guard veteran. In London I mentored people with lived experience of homelessness and coached charity leaders and Tower Hamlets Council. Now I'm home in Austin, serving Travis County on its Elections team and bringing that experience to public service.
+In London, I volunteered with Shelter, helping people experiencing homelessness write résumés and prepare for interviews. Through the East London Business Alliance, I coached senior leaders on managing staff, improving internal communications and working with local government. At Tower Hamlets Council for Voluntary Service, I helped develop an external communications plan, clarify the organisation’s digital strategy and introduce AI tools. At Société Générale, I served on the Pride and Ally Committee and led fundraising initiatives that brought together employees and external contractors.
 
 ## Connect
 
