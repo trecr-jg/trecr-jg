@@ -12,8 +12,8 @@ Now I'm bringing that experience home to Austin, in public service focused on ho
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/jgreenus/)
-- Email: [YOUR-EMAIL](mailto:jgreenus)
+- LinkedIn: [linkedin.com/in/jgreenus](https://www.linkedin.com/in/jgreenus/)
+- Email: [jg.trecr@gmail.com](mailto:jg.trecr@gmail.com)
 - Location: Austin, Texas
 
 ## What I Bring to an Office
