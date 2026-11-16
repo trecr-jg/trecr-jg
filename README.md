@@ -1,14 +1,12 @@
 # James Green
 
-## Operations & Policy Delivery | Regulatory Programs | Public Service
+## Regulatory Change | Policy Implementation | Program Delivery
 
-I'm an implementer without an ego. Give me a mandate, and I turn it into delivered work: plans people can follow, data people can trust, and outcomes people can see.
+I'm an implementer without an ego. I turn regulation and policy into working practice that holds up to inspection, with clear owners, real deadlines and reporting that shows whether it's working.
 
-I spent 25+ years inside regulated financial services: banking, a futures commission merchant, IT management and trading-system support. That includes 14 years at Societe Generale in Chicago and London, where I was a Vice President and the UK Data Steward / Data Governance Lead. I delivered regulatory change and global internal policy programs, and I was an agile coach across SG UK.
+I spent 25+ years in financial services, including 14 years at Societe Generale (Vice President) in Chicago and London. There I delivered regulatory remediation, regulatory change management and internal policy rollouts across legal entities, business units and teams in the US, Europe and Asia. I've briefed executive, risk and audit committees in plain language.
 
-I'm a US military veteran with 18 years of service in the Air Force and Air National Guard. I've also spent years coaching people experiencing homelessness into work, and coaching charity and local-government leaders in London.
-
-Now I'm bringing that experience home to Austin, in public service focused on homelessness and economic opportunity.
+I'm an 18-year U.S. Air Force and Air National Guard veteran. In London I mentored people with lived experience of homelessness and coached charity leaders and Tower Hamlets Council. Now I'm home in Austin, serving Travis County on its Elections team and bringing that experience to public service.
 
 ## Connect
 
@@ -18,38 +16,32 @@ Now I'm bringing that experience home to Austin, in public service focused on ho
 
 ## What I Bring to an Office
 
-- Turning policy and regulation into delivered programs
-- Program and project management, from plan through to done
-- Operations: getting the day-to-day running cleanly
-- Data governance and data quality, so decisions rest on numbers people trust
-- Translating between leaders, technical teams and the public
+- Turning policy and regulation into delivered, auditable practice
+- Building coalitions without formal authority across legal, risk, operations and technology
+- Program and project management, from charter through closure
+- KPI and KRI reporting, dashboards and accountability that drives corrective action
+- Budget stewardship and expenditure tracking
+- Discretion in regulated, confidential environments
 - Coaching leaders and teams through change
-- Doing more without asking for more budget
 
 ## From Policy to Delivery
 
 | Challenge | What I did |
 |-----------|------------|
-| Regulation and global policy | Delivered regulatory change and global internal policy programs inside a major international bank. |
-| Building from nothing | Built a UK data governance framework from scratch, rather than inheriting one. |
-| Bad data under pressure | Led data-quality remediation under regulatory scrutiny, so the numbers sent to regulators were right. |
-| Business ↔ technology translation | At Man Financial, served as the focal point for all FIX connectivity between sales, internal IT and clients' IT, translating business needs into IT requirements and back. |
-| Early warning for leadership | At Maxwell Data, built a dashboard using median cost spend and variance above and below a set risk level to alert management. |
-| No extra budget | Coaching at Tower Hamlets Council, brought a private-sector view, including ways to solve problems without increased or separate budget. |
+| A regulator found problems | Took a regulator-facing reporting process from review finding to production. Cut turnaround from 24 hours to 8 and passed the follow-up inspection. |
+| New rules keep arriving | Built a regulatory change database and governance process: an auditable path from each new rule to an applicability decision, owner, action, due date and status. |
+| Policy across many teams | Implemented records retention across two legal entities and about 10 business and support units: 100+ rules delivered, and the program's sole open key audit finding closed. |
+| A deadline-driven migration | Ran the PMO for about 3,000 clients moving to the EU after Brexit. About 95% migrated; the rest chose to keep UK protections. |
+| Wasted staff time | Cut a global Cyber/IT risk report from 7.2 person-weeks a month to about five minutes, releasing about £194K a year of capacity with no job losses. |
+| Money to account for | Controlled forecasting and spending across a €6M project portfolio and ran a €500K regulatory program. |
 
 ## Community and Public Service
 
-- **Shelter, GROW program (London, 2019–2025).** Mentored four people experiencing homelessness. Two found jobs, and one was hired into the GROW program itself.
-- **East London Business Alliance (2019–2025).** Coached nine leaders across several charities and Tower Hamlets Council on leadership, operations, strategy and change management.
-- **Travis County Elections (2026 general election).** On the team that delivered and collected voting equipment at 200 sites across the county.
-- **US Air Force / Air National Guard.** 18 years of service.
-
-## Education and Certifications
-
-- BS, Business Administration: Trinity Christian College
-- ICAgile: Agile Coaching
-- AgilePgM: Agile Program Management
+- **Shelter, GROW program (London, 2019–2025).** Mentored four people with lived experience of homelessness toward employment. Two found jobs and one was hired into the program.
+- **East London Business Alliance (2019–2025).** Coached nine leaders, including board members and executive directors, across East London charities and Tower Hamlets Council. Included ways to solve problems without increased or separate budget.
+- **Travis County Elections (2026).** On the team delivering and collecting voting equipment at 200 sites for the November election.
+- **U.S. Air Force / Air National Guard.** 18 years of service. Unit Training Manager for a 60-person unit.
 
 ## Resume
 
-**Start here: [Resume](https://github.com/trecr-jg/YOUR-RESUME-REPO)**. Full work history and details.
+**[Read my full resume](https://github.com/trecr-jg/trecr-jg/blob/main/james_green_resume.md)**: experience, results, education and certifications.
