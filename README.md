@@ -6,7 +6,7 @@ I turn regulations and policies into everyday practices that stand up to review 
 
 My more than 25 years in financial services include 14 at Société Générale in Chicago and London. As a vice president, I led regulatory remediation, managed regulatory change and rolled out internal policies across legal entities and business units in the U.S., Europe and Asia. I briefed executive, risk and audit committees on the progress of that work and the decisions still needed. I also secured funding through the company’s internal call for startups and managed the team that developed my proposal.
 
-In London, I volunteered with Shelter, helping people experiencing homelessness write résumés and prepare for interviews. Through the East London Business Alliance, I coached senior leaders on managing staff, improving internal communications and working with local government. At Tower Hamlets Council for Voluntary Service, I helped develop an external communications plan, clarify the organisation’s digital strategy and introduce AI tools. At Société Générale, I served on the Pride and Ally Committee and led fundraising initiatives that brought together employees and external contractors.
+In London, I worked with Shelter, helping people experiencing homelessness write résumés and prepare for interviews. Through the East London Business Alliance, I coached senior leaders on managing staff, improving internal communications and working with local government. At Tower Hamlets Council for Voluntary Service, I helped develop an external communications plan, clarify the organisation’s digital strategy and introduce AI tools. At Société Générale, I served on the Pride and Ally Committee and led fundraising initiatives that brought together employees and external contractors.
 
 ## Connect
 
@@ -37,8 +37,8 @@ In London, I volunteered with Shelter, helping people experiencing homelessness 
 
 ## Community and Public Service
 
-- **Shelter, GROW program (London, 2019–2025).** Mentored four people with lived experience of homelessness toward employment. Two found jobs and one was hired into the program.
-- **East London Business Alliance (2019–2025).** Coached nine leaders, including board members and executive directors, across East London charities and Tower Hamlets Council. Included ways to solve problems without increased or separate budget.
+- **Shelter, GROW program (London, 2019–2025).** Mentored people with lived experience of homelessness toward full-time employment.
+- **East London Business Alliance (2019–2025).** Coached local leaders, including board members and executive directors, across East London charities and Tower Hamlets Council; included ways to solve problems without increased or separate budget.
 - **Travis County Elections (2026).** On the team delivering and collecting voting equipment at 200 sites for the November election.
 - **U.S. Air Force / Air National Guard.** 18 years of service. Unit Training Manager for a 60-person unit.
 
